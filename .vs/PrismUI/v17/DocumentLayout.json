@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulemember\\views\\viewmember.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|solutionrelative:modulemember\\views\\viewmember.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulemember\\modulemembermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|solutionrelative:modulemember\\modulemembermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulemember\\views\\viewmember.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|solutionrelative:modulemember\\views\\viewmember.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulemember\\viewmodels\\viewmemberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05CC338-6091-4348-8F97-337A5C588AAB}|ModuleMember\\ModuleMember.csproj|solutionrelative:modulemember\\viewmodels\\viewmemberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulehome\\modulehomemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|solutionrelative:modulehome\\modulehomemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulehome\\views\\viewhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|solutionrelative:modulehome\\views\\viewhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulehome\\views\\viewhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|solutionrelative:modulehome\\views\\viewhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulehome\\viewmodels\\viewhomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|solutionrelative:modulehome\\viewmodels\\viewhomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\prismui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\prismui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\modulehome\\modulehome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{378414FB-D587-4F1B-9A16-61DA28239CD1}|ModuleHome\\ModuleHome.csproj|solutionrelative:modulehome\\modulehome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|c:\\users\\pc\\desktop\\workspace\\prismui\\prismui\\theme\\menubuttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4624D5DD-850C-4329-9003-0E021994961E}|PrismUI\\PrismUI.csproj|solutionrelative:prismui\\theme\\menubuttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrismUI.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\PrismUI.csproj",
+              "RelativeDocumentMoniker": "PrismUI\\PrismUI.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\PrismUI.csproj",
+              "RelativeToolTip": "PrismUI\\PrismUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:37:59.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewMember.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\Views\\ViewMember.xaml.cs",
+              "RelativeDocumentMoniker": "ModuleMember\\Views\\ViewMember.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\Views\\ViewMember.xaml.cs",
+              "RelativeToolTip": "ModuleMember\\Views\\ViewMember.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:46:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewMemberViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\ViewModels\\ViewMemberViewModel.cs",
+              "RelativeDocumentMoniker": "ModuleMember\\ViewModels\\ViewMemberViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\ViewModels\\ViewMemberViewModel.cs",
+              "RelativeToolTip": "ModuleMember\\ViewModels\\ViewMemberViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:46:21.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewMember.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\Views\\ViewMember.xaml",
+              "RelativeDocumentMoniker": "ModuleMember\\Views\\ViewMember.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\Views\\ViewMember.xaml",
+              "RelativeToolTip": "ModuleMember\\Views\\ViewMember.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T13:35:38.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModuleHomeModule.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\ModuleHomeModule.cs",
+              "RelativeDocumentMoniker": "ModuleHome\\ModuleHomeModule.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\ModuleHomeModule.cs",
+              "RelativeToolTip": "ModuleHome\\ModuleHomeModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:48:11.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewHome.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\Views\\ViewHome.xaml",
+              "RelativeDocumentMoniker": "ModuleHome\\Views\\ViewHome.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\Views\\ViewHome.xaml",
+              "RelativeToolTip": "ModuleHome\\Views\\ViewHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T13:14:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModuleMemberModule.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\ModuleMemberModule.cs",
+              "RelativeDocumentMoniker": "ModuleMember\\ModuleMemberModule.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleMember\\ModuleMemberModule.cs",
+              "RelativeToolTip": "ModuleMember\\ModuleMemberModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PrismUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\App.xaml.cs",
+              "RelativeToolTip": "PrismUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:04:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewHome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\Views\\ViewHome.xaml.cs",
+              "RelativeDocumentMoniker": "ModuleHome\\Views\\ViewHome.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\Views\\ViewHome.xaml.cs",
+              "RelativeToolTip": "ModuleHome\\Views\\ViewHome.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:07:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "PrismUI\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "PrismUI\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:32:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PrismUI\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "PrismUI\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T12:05:55.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewHomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\ViewModels\\ViewHomeViewModel.cs",
+              "RelativeDocumentMoniker": "ModuleHome\\ViewModels\\ViewHomeViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\ViewModels\\ViewHomeViewModel.cs",
+              "RelativeToolTip": "ModuleHome\\ViewModels\\ViewHomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:48:10.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\App.xaml",
+              "RelativeDocumentMoniker": "PrismUI\\App.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\App.xaml",
+              "RelativeToolTip": "PrismUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T12:26:06.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModuleHome.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\ModuleHome.csproj",
+              "RelativeDocumentMoniker": "ModuleHome\\ModuleHome.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\ModuleHome\\ModuleHome.csproj",
+              "RelativeToolTip": "ModuleHome\\ModuleHome.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:02:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrismUI\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PrismUI\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:32:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAG4IAAAAAAAAAAAYwH8IAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-31T12:57:46.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TextboxTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Theme\\TextboxTheme.xaml",
+              "RelativeDocumentMoniker": "PrismUI\\Theme\\TextboxTheme.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Theme\\TextboxTheme.xaml",
+              "RelativeToolTip": "PrismUI\\Theme\\TextboxTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T12:46:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuButtonTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Theme\\MenuButtonTheme.xaml",
+              "RelativeDocumentMoniker": "PrismUI\\Theme\\MenuButtonTheme.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Workspace\\PrismUI\\PrismUI\\Theme\\MenuButtonTheme.xaml",
+              "RelativeToolTip": "PrismUI\\Theme\\MenuButtonTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T12:17:09.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

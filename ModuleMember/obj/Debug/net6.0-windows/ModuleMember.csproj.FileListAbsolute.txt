@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\bin\Debug\net6.0-windows\ModuleMember.deps.json
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\bin\Debug\net6.0-windows\ModuleMember.dll
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\bin\Debug\net6.0-windows\ModuleMember.pdb
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\Views\ViewMember.g.cs
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember_MarkupCompile.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember_MarkupCompile.lref
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\Views\ViewMember.baml
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.g.resources
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.AssemblyInfo.cs
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.dll
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\refint\ModuleMember.dll
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ModuleMember.pdb
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleMember\obj\Debug\net6.0-windows\ref\ModuleMember.dll

@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\bin\Debug\net6.0-windows\ModuleHome.deps.json
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\bin\Debug\net6.0-windows\ModuleHome.dll
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\bin\Debug\net6.0-windows\ModuleHome.pdb
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\Views\ViewHome.g.cs
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome_MarkupCompile.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome_MarkupCompile.lref
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\Views\ViewHome.baml
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.g.resources
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.AssemblyInfo.cs
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.dll
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\refint\ModuleHome.dll
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ModuleHome.pdb
+C:\Users\PC\Desktop\Workspace\PrismUI\ModuleHome\obj\Debug\net6.0-windows\ref\ModuleHome.dll
